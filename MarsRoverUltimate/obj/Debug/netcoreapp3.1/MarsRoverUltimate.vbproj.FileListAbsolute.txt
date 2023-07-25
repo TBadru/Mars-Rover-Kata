@@ -1,0 +1,70 @@
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.exe
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.deps.json
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.runtimeconfig.json
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.runtimeconfig.dev.json
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.dll
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.pdb
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.vbproj.AssemblyReference.cache
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.AssemblyInfoInputs.cache
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.AssemblyInfo.vb
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.vbproj.CoreCompileInputs.cache
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.dll
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.pdb
+C:/Users/tbadru/source/repos/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.genruntimeconfig.cache
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.exe
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.deps.json
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.runtimeconfig.json
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.runtimeconfig.dev.json
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.dll
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.pdb
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.vbproj.AssemblyReference.cache
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.AssemblyInfoInputs.cache
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.AssemblyInfo.vb
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.vbproj.CoreCompileInputs.cache
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.dll
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.pdb
+C:/Users/tbadru/source/repos/OOP Kata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.genruntimeconfig.cache
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.exe
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.deps.json
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.runtimeconfig.json
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.runtimeconfig.dev.json
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.dll
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.pdb
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.vbproj.AssemblyReference.cache
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.AssemblyInfoInputs.cache
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.AssemblyInfo.vb
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.vbproj.CoreCompileInputs.cache
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.dll
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.pdb
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimate/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.genruntimeconfig.cache
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.exe
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.deps.json
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.runtimeconfig.json
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.runtimeconfig.dev.json
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.dll
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.pdb
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.vbproj.AssemblyReference.cache
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.AssemblyInfoInputs.cache
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.AssemblyInfo.vb
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.vbproj.CoreCompileInputs.cache
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.dll
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.pdb
+C:/Users/tbadru/source/repos/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.genruntimeconfig.cache
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.deps.json
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.runtimeconfig.json
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.runtimeconfig.dev.json
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.dll
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/bin/Debug/netcoreapp3.1/MarsRoverUltimate.pdb
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.vbproj.AssemblyReference.cache
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.AssemblyInfoInputs.cache
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.AssemblyInfo.vb
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.vbproj.CoreCompileInputs.cache
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.dll
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.pdb
+/Users/dayobadru/Desktop/PROJECTSUPDATED/Misc/OOPKata/MarsRoverUltimateWorks/MarsRoverUltimate/obj/Debug/netcoreapp3.1/MarsRoverUltimate.genruntimeconfig.cache
